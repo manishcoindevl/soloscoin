@@ -1,0 +1,2 @@
+# soloscoin
+Crypto currency
